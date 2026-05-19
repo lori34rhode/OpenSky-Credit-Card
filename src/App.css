@@ -1,0 +1,28 @@
+:root {
+  --primary-color: #0d3b66;
+  --secondary-color: #f4d35e;
+  --bg-color: #f7f9fa;
+  --text-dark: #333333;
+  --card-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+}
+
+.app-container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: var(--text-dark);
+}
+
+.dashboard-layout {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 30px;
+  margin-top: 25px;
+}
+
+@media (max-width: 768px) {
+  .dashboard-layout {
+    grid-template-columns: 1fr;
+  }
+}
