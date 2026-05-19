@@ -1,0 +1,41 @@
+.list-card {
+  background: #ffffff;
+  padding: 25px;
+  border-radius: 12px;
+  box-shadow: var(--card-shadow);
+}
+
+.list-card h3 {
+  margin-top: 0;
+  color: var(--primary-color);
+}
+
+.expense-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 0;
+  border-bottom: 1px solid #f0f4f8;
+}
+
+.item-info default-text {
+  font-weight: bold;
+}
+
+.item-meta {
+  font-size: 0.8rem;
+  color: #777;
+}
+
+.delete-btn {
+  background: #ff4d4d;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 5px 10px;
+  cursor: pointer;
+}
+
+.delete-btn:hover {
+  background: #cc0000;
+}
