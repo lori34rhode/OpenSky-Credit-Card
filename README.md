@@ -17,9 +17,9 @@ By prioritizing crisp data design and instant mathematical calculations, this to
 *   **JavaScript (ES6+)** - Dynamic state manipulation and transaction logic
 
 ## Author
-*   **Name:** 
-*   **Email:** 
-*   **Website:** 
+*   **Name:** lori
+*   **Email:** lori34rhode@outlook.com
+*   **Website:** [OpenSky Credit Card](https://www.openskycc.com.co)
 *   **Bio:** DevMaster Mind is a veteran Senior Full-Stack Engineer with over a decade of enterprise software engineering experience. Mastering modern JavaScript ecosystems, clean architectural patterns, and performance tuning, they possess a deep knowledge of building highly accessible financial web applications. Driven by an innately empathetic and helping nature, DevMaster frequently mentors junior developers and contributes heavily to open-source software aimed at enhancing global financial literacy and credit access.
 
 ## Getting Started
